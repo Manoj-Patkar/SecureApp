@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SecureApp</string>
+    <string name="cardNo">Credit/Debit Number</string>
+    <string name="expiryDate">DD/MM</string>
+    <string name="cvv">CVV</string>
+    <string name="cardName">Card Name</string>
+    <string name="proceed">Proceed</string>
+    <string name="shaketxt">Please Shake the Device 3 times To continue</string>
+    <string name="authrtxt">You Are Authorized</string>
+    <string name="backToMainBtn">Back To Start</string>
+</resources>
